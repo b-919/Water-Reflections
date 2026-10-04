@@ -5,6 +5,6 @@ author: "B919"
 main: "b919.WaterMain"
 description: "Water Reflection shader all water surfaces now have reflections. Fully Configurable compatible with Android and PC."
 hidden: true
-version: 2.1.0
+version: 2.1.1
 minGameVersion: 160
 java: true
